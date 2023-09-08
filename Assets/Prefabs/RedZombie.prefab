@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 6110226588858813746}
   - component: {fileID: 7168988012255054658}
   - component: {fileID: 4024632149979884406}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: RedZombie
   m_TagString: Enemy
   m_Icon: {fileID: 0}

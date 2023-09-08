@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 7691200367851430487}
   - component: {fileID: 4004448023404991350}
   - component: {fileID: 6611322175774559890}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: GreenZombie
   m_TagString: Enemy
   m_Icon: {fileID: 0}
